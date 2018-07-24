@@ -9,10 +9,7 @@
 
 
 <div>
-<img style="margin:20px" src="Screens/Category.png" alt="Category" width="300" height="500" />
-<img style="margin:20px" src="Screens/Quiz Interface.png" alt="Interface" width="300" height="500"/>
-</div>
-
-<div>
-  <img src="Screens/Score Display.png" alt="Your Score" width="300" height="500"/>
+<img src="Screens/Category.png" alt="Category" width="280" height="500" />
+<img src="Screens/Quiz Interface.png" alt="Interface" width="280" height="500"/>
+<img src="Screens/Score Display.png" alt="Your Score" width="280" height="500"/>
 </div>
