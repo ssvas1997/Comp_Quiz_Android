@@ -6,4 +6,4 @@
 
 - For API KEYS of Firebase <a href="https://firebase.google.com/docs/android/setup#manually_add_firebase">Firebase Docs</a>
 
-<br><img src="Screens/Login.png" alt="Login" width="500" height="600"/>
+<br><img src="Screens/Login.png" alt="Login" width="300" height="500"/>
