@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context=".UI.Main_Quiz.MainActivitySec1">
+      <item android:id="@+id/action_logout"
+            android:title="Logout"
+            android:orderInCategory="100"
+            />
+</menu>
