@@ -8,8 +8,11 @@
 
 
 
-<div>
-<img src="Screens/Category.png" alt="Category" width="300" height="500" margin="20px"/>
+<div margin="20px">
+<img src="Screens/Category.png" alt="Category" width="300" height="500" />
 <img src="Screens/Quiz Interface.png" alt="Interface" width="300" height="500"/>
-<img src="Screens/Score Display.png" alt="Your Score" width="300" height="500"/>
+</div>
+
+<div>
+  <img src="Screens/Score Display.png" alt="Your Score" width="300" height="500"/>
 </div>
