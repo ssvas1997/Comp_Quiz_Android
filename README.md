@@ -9,8 +9,8 @@
 
 
 <div>
-<img style="margin:20" src="Screens/Category.png" alt="Category" width="300" height="500" />
-<img style="margin:20" src="Screens/Quiz Interface.png" alt="Interface" width="300" height="500"/>
+<img style="margin:20px" src="Screens/Category.png" alt="Category" width="300" height="500" />
+<img style="margin:20px" src="Screens/Quiz Interface.png" alt="Interface" width="300" height="500"/>
 </div>
 
 <div>
